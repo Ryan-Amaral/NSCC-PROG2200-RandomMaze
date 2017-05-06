@@ -1,0 +1,3 @@
+<p>A project for an Advanced OOP class at NSCC. This program creates a randomly generated maze that can subsequently be played. The executable itself does not have the ability to change maze size, but a marked line of code in the form can be changed to change the size. The resizeability feature was left out due to time contraints from all my classes at the time.</p><br/>
+
+<p>The maze generation is produced by finding a spanning tree of the graph. I was not well versed in graph theory at the time this project was made, so I used my own graph like structure along with a randomized Kruskal's algorithm.</p><br/>
